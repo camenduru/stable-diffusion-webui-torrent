@@ -1,0 +1,23 @@
+{
+    "about": "model torrents",
+    "tags": {
+        "anime": "anime",
+        "realistic": "realistic"
+    },
+    "torrent": [
+        {
+            "name": "model name 1",
+            "magnet": "model magnet 1",
+            "description": "model description 1",
+            "added": "2022-11-01",
+            "tags": ["anime"]
+        },
+        {
+            "name": "model name 2",
+            "magnet": "model magnet 3",
+            "description": "model description 3",
+            "added": "2022-11-07",
+            "tags": ["realistic"]
+        }
+    ]
+}
